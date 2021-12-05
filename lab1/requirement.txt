@@ -1,0 +1,13 @@
+numpy
+scipy
+pywavelets
+scikit-image
+python-sounddevice
+seaborn
+pillow
+jupyter
+nb_conda
+bokeh
+matplotlib
+ipympl
+jupyterlab
